@@ -15,7 +15,7 @@ You can install gowttr in two ways: using an install script or building it manua
 Run this to download the latest release and install it:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/KartoffelChipss/gowttr/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/KartoffelChipss/gowttr/refs/heads/main/install.sh | bash
 ```
 
 This will:
