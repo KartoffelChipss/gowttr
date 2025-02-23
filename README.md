@@ -44,7 +44,7 @@ brew install go          # macOS
 #### 2. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gowttr.git
+git clone https://github.com/KartoffelChipss/gowttr.git
 cd gowttr
 ```
 
