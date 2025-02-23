@@ -10,9 +10,9 @@ if [ -z "$LATEST_RELEASE" ]; then
 fi
 
 echo "Downloading latest release from: $LATEST_RELEASE"
-curl -L "$LATEST_RELEASE" -o myapp
+curl -L "$LATEST_RELEASE" -o gowttr
 
-chmod +x myapp
-sudo mv myapp /usr/local/bin/
+chmod +x gowttr
+sudo mv gowttr /usr/local/bin/
 
 echo "Installation complete! Run 'gowttr' to get started."
