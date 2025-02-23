@@ -6,8 +6,6 @@ A simple command line app written in go, that shows you the current weather. The
 
 ## 📦 Installation
 
-### Build it yourself
-
 You can install gowttr in two ways: using an install script or building it manually.
 
 ### 🔧 Method 1: Install via Script
